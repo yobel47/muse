@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://muse.kurobell.web.id"><img src="https://raw.githubusercontent.com/yobel47/muse-project/public/Muse.png" alt="Aw" width="200"></a>
+  <a href="http://muse.kurobell.web.id"><img src="https://raw.githubusercontent.com/yobel47/muse-project/main/public/Muse.png" alt="Aw" width="200"></a>
   <br>
   Muse Project
   <br>
