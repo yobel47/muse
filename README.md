@@ -16,7 +16,7 @@ You can take a question here ["Take the test!"](https://muse.kurobell.web.id).
 
 ## Key Features
 
-* Dark and Light, just like bad and good.
+* More than 10 questions, to fullfill your brain
 
 ## Clone things
 
