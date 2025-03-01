@@ -42,7 +42,7 @@ Open [http://localhost:5173](http://localhost:5173) with your browser to see the
 
 Here are some ingredients to make it :
 
-- [React + Vite]([https://react.dev/])
+- [React + Vite](https://react.dev/)
 
 And other secret recipes.
 
