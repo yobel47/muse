@@ -16,7 +16,7 @@ You can take a question here ["Take the test!"](https://muse.kurobell.web.id).
 
 ## Key Features
 
-* More than 10 questions, to fullfill your brain
+* More than 10 questions, to fullfill your anxiety
 
 ## Clone things
 
